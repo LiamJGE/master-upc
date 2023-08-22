@@ -1,0 +1,47 @@
+---
+title: "host_verifications modification"
+output: html_document
+date: "2022-10-10"
+---
+
+# Creation of 3 new binary categorical variables from host_verifications attribute.
+
+The three new attributes are the following:
+    a. phone_verification (0 = 'no', 1 = 'yes')
+    b. email_verification (0 = 'no', 1 = 'yes')
+    c. work_email_verification (0 = 'no', 1 = 'yes')
+    
+    
+```{r}
+summary(factor(df$host_verifications))
+table(df$host_verifications, useNA = 'ifany')
+```
+
+```{r}
+
+
+
+df$phone_verification <- 0
+df$email_verification <- 0
+df$work_email_verification <-0
+print(length(df$host_verifications))
+
+for( i in 1:length(df$host_verifications)){
+  if (df$host_verifications[i] == 'none'){next}
+  if (grepl('phone', df$host_verifications[i]) == TRUE){
+     df$phone_verification[i] <- 1
+  }
+  
+  if (grepl('email', df$host_verifications[i]) == TRUE){
+     df$email_verification[i] <- 1
+  }
+  
+  if (grepl('work_email', df$host_verifications[i]) == TRUE){
+     df$work_email_verification[i] <- 1
+  }
+}
+
+
+df$host_verifications <- NULL
+```
+

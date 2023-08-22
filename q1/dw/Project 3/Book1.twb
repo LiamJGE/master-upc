@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20223.22.1108.0821                               -->
+<workbook original-version='18.1' source-build='2022.3.1 (20223.22.1108.0821)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='AIRCRAFTUTILIZATION_A_M+ (LIAM.JAMES.GLENNIE)' inline='true' name='federated.10txvd10yxyrcp148txic05esaby' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='oraclefib.fib.upc.edu' name='oracle.1pv1k0a1xe1srf1amy9lf18t10n3'>
+            <connection authentication='RDBMS' class='oracle' one-time-sql='' port='1521' schema='LIAM.JAMES.GLENNIE' server='oraclefib.fib.upc.edu' service='orabd' sslcert='' sslmode='' username='liam.james.glennie' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation join='inner' type='join'>
+          <clause type='join'>
+            <expression op='AND'>
+              <expression op='='>
+                <expression op='[AIRCRAFTUTILIZATION_A_M].[AIRCRAFT]' />
+                <expression op='[LOGBOOKREPORTING_A_M_P].[AIRCRAFT]' />
+              </expression>
+              <expression op='='>
+                <expression op='[AIRCRAFTUTILIZATION_A_M].[MONTH]' />
+                <expression op='[LOGBOOKREPORTING_A_M_P].[MONTH]' />
+              </expression>
+            </expression>
+          </clause>
+          <relation connection='oracle.1pv1k0a1xe1srf1amy9lf18t10n3' name='AIRCRAFTUTILIZATION_A_M' table='[LIAM.JAMES.GLENNIE].[AIRCRAFTUTILIZATION_A_M]' type='table' />
+          <relation connection='oracle.1pv1k0a1xe1srf1amy9lf18t10n3' name='LOGBOOKREPORTING_A_M_P' table='[LIAM.JAMES.GLENNIE].[LOGBOOKREPORTING_A_M_P]' type='table' />
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation join='inner' type='join'>
+          <clause type='join'>
+            <expression op='AND'>
+              <expression op='='>
+                <expression op='[AIRCRAFTUTILIZATION_A_M].[AIRCRAFT]' />
+                <expression op='[LOGBOOKREPORTING_A_M_P].[AIRCRAFT]' />
+              </expression>
+              <expression op='='>
+                <expression op='[AIRCRAFTUTILIZATION_A_M].[MONTH]' />
+                <expression op='[LOGBOOKREPORTING_A_M_P].[MONTH]' />
+              </expression>
+            </expression>
+          </clause>
+          <relation connection='oracle.1pv1k0a1xe1srf1amy9lf18t10n3' name='AIRCRAFTUTILIZATION_A_M' table='[LIAM.JAMES.GLENNIE].[AIRCRAFTUTILIZATION_A_M]' type='table' />
+          <relation connection='oracle.1pv1k0a1xe1srf1amy9lf18t10n3' name='LOGBOOKREPORTING_A_M_P' table='[LIAM.JAMES.GLENNIE].[LOGBOOKREPORTING_A_M_P]' type='table' />
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[ADIS]' value='[AIRCRAFTUTILIZATION_A_M].[ADIS]' />
+          <map key='[ADOSS]' value='[AIRCRAFTUTILIZATION_A_M].[ADOSS]' />
+          <map key='[ADOSU]' value='[AIRCRAFTUTILIZATION_A_M].[ADOSU]' />
+          <map key='[AIRCRAFT (LOGBOOKREPORTING_A_M_P)]' value='[LOGBOOKREPORTING_A_M_P].[AIRCRAFT]' />
+          <map key='[AIRCRAFT]' value='[AIRCRAFTUTILIZATION_A_M].[AIRCRAFT]' />
+          <map key='[CN]' value='[AIRCRAFTUTILIZATION_A_M].[CN]' />
+          <map key='[DELAYEDMINUTES]' value='[AIRCRAFTUTILIZATION_A_M].[DELAYEDMINUTES]' />
+          <map key='[DY]' value='[AIRCRAFTUTILIZATION_A_M].[DY]' />
+          <map key='[FC]' value='[AIRCRAFTUTILIZATION_A_M].[FC]' />
+          <map key='[FH]' value='[AIRCRAFTUTILIZATION_A_M].[FH]' />
+          <map key='[MAREP]' value='[LOGBOOKREPORTING_A_M_P].[MAREP]' />
+          <map key='[MONTH (LOGBOOKREPORTING_A_M_P)]' value='[LOGBOOKREPORTING_A_M_P].[MONTH]' />
+          <map key='[MONTH]' value='[AIRCRAFTUTILIZATION_A_M].[MONTH]' />
+          <map key='[PERSON]' value='[LOGBOOKREPORTING_A_M_P].[PERSON]' />
+          <map key='[PIREP]' value='[LOGBOOKREPORTING_A_M_P].[PIREP]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>AIRCRAFT</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[AIRCRAFT]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>AIRCRAFT</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>6</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation charset='1' flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MONTH</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[MONTH]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>MONTH</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>7</width>
+            <contains-null>false</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation charset='1' flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>FH</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[FH]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>FH</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>FC</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[FC]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>FC</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ADIS</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[ADIS]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>ADIS</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ADOSS</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[ADOSS]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>ADOSS</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ADOSU</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[ADOSU]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>ADOSU</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DY</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[DY]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>DY</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DELAYEDMINUTES</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[DELAYEDMINUTES]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>DELAYEDMINUTES</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CN</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[CN]</local-name>
+            <parent-name>[AIRCRAFTUTILIZATION_A_M]</parent-name>
+            <remote-alias>CN</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>AIRCRAFT</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[AIRCRAFT (LOGBOOKREPORTING_A_M_P)]</local-name>
+            <parent-name>[LOGBOOKREPORTING_A_M_P]</parent-name>
+            <remote-alias>AIRCRAFT</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>6</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation charset='1' flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MONTH</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[MONTH (LOGBOOKREPORTING_A_M_P)]</local-name>
+            <parent-name>[LOGBOOKREPORTING_A_M_P]</parent-name>
+            <remote-alias>MONTH</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>7</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation charset='1' flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PERSON</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PERSON]</local-name>
+            <parent-name>[LOGBOOKREPORTING_A_M_P]</parent-name>
+            <remote-alias>PERSON</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>6</width>
+            <contains-null>true</contains-null>
+            <padded-semantics>true</padded-semantics>
+            <collation charset='1' flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PIREP</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[PIREP]</local-name>
+            <parent-name>[LOGBOOKREPORTING_A_M_P]</parent-name>
+            <remote-alias>PIREP</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MAREP</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[MAREP]</local-name>
+            <parent-name>[LOGBOOKREPORTING_A_M_P]</parent-name>
+            <remote-alias>MAREP</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <scale>-127</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Adis' datatype='real' name='[ADIS]' role='measure' type='quantitative' />
+      <column caption='Adoss' datatype='real' name='[ADOSS]' role='measure' type='quantitative' />
+      <column caption='Adosu' datatype='real' name='[ADOSU]' role='measure' type='quantitative' />
+      <column caption='Aircraft (Logbookreporting A M P)' datatype='string' name='[AIRCRAFT (LOGBOOKREPORTING_A_M_P)]' role='dimension' type='nominal' />
+      <column caption='Aircraft' datatype='string' name='[AIRCRAFT]' role='dimension' type='nominal' />
+      <column caption='Delayedminutes' datatype='real' name='[DELAYEDMINUTES]' role='measure' type='quantitative' />
+      <column caption='Marep' datatype='real' name='[MAREP]' role='measure' type='quantitative' />
+      <column aggregation='Count' caption='Month (Logbookreporting A M P)' datatype='date' datatype-customized='true' name='[MONTH (LOGBOOKREPORTING_A_M_P)]' role='dimension' type='ordinal' />
+      <column aggregation='Count' caption='Month' datatype='date' datatype-customized='true' name='[MONTH]' role='dimension' type='ordinal' />
+      <column caption='Person' datatype='string' name='[PERSON]' role='dimension' type='nominal' />
+      <column caption='Pirep' datatype='real' name='[PIREP]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='AIRCRAFTUTILIZATION_A_M' datatype='table' name='[__tableau_internal_object_id__].[AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Spain&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='AIRCRAFTUTILIZATION_A_M' id='AIRCRAFTUTILIZATION_A_M_852741CE809740529A4D81CF5E40FD03'>
+            <properties context=''>
+              <relation join='inner' type='join'>
+                <clause type='join'>
+                  <expression op='AND'>
+                    <expression op='='>
+                      <expression op='[AIRCRAFTUTILIZATION_A_M].[AIRCRAFT]' />
+                      <expression op='[LOGBOOKREPORTING_A_M_P].[AIRCRAFT]' />
+                    </expression>
+                    <expression op='='>
+                      <expression op='[AIRCRAFTUTILIZATION_A_M].[MONTH]' />
+                      <expression op='[LOGBOOKREPORTING_A_M_P].[MONTH]' />
+                    </expression>
+                  </expression>
+                </clause>
+                <relation connection='oracle.1pv1k0a1xe1srf1amy9lf18t10n3' name='AIRCRAFTUTILIZATION_A_M' table='[LIAM.JAMES.GLENNIE].[AIRCRAFTUTILIZATION_A_M]' type='table' />
+                <relation connection='oracle.1pv1k0a1xe1srf1amy9lf18t10n3' name='LOGBOOKREPORTING_A_M_P' table='[LIAM.JAMES.GLENNIE].[LOGBOOKREPORTING_A_M_P]' type='table' />
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='AIRCRAFTUTILIZATION_A_M+ (LIAM.JAMES.GLENNIE)' name='federated.10txvd10yxyrcp148txic05esaby' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10txvd10yxyrcp148txic05esaby'>
+            <column caption='Aircraft' datatype='string' name='[AIRCRAFT]' role='dimension' type='nominal' />
+            <column datatype='real' name='[FH]' role='measure' type='quantitative' />
+            <column-instance column='[AIRCRAFT]' derivation='None' name='[none:AIRCRAFT:nk]' pivot='key' type='nominal' />
+            <column-instance column='[FH]' derivation='Sum' name='[sum:FH:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.10txvd10yxyrcp148txic05esaby].[sum:FH:qk]</rows>
+        <cols>[federated.10txvd10yxyrcp148txic05esaby].[none:AIRCRAFT:nk]</cols>
+      </table>
+      <simple-id uuid='{6ECE2E44-5961-4628-B56C-703079ADEBAE}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.10txvd10yxyrcp148txic05esaby].[none:AIRCRAFT:nk]</field>
+            <field>[federated.10txvd10yxyrcp148txic05esaby].[none:MONTH:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{B46EC31C-7CB2-4446-B442-6A673EECB17A}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

@@ -1,0 +1,31 @@
+,Type,ID,Name,ConferenceType,Area,ResponsibleName,ResponsibleID
+0,Conference,ICML,International Conference on Machine Learning,Workshop,Databases,William Bülow,d0242381fb9c472f8397a9914c26f80a
+1,Conference,ICLR,International Conference on Learning Representations,Symposium,NaturalLanguageProcessing,David G. Larman,10b31ee210d64c40b17d48fafec4aa5c
+2,Journal,JML,Journal of Machine Learning,,MachineLearning,Hugh P. Shanahan,c931ed8f1b8b4dedb3c82b7c9a19083b
+3,Journal,TNNLS,IEEE Transactions on Neural Networks and Learning Systems,,Databases,Marty J. Wolf,024bb4fa0c2d4f28b15353bdf9f1d6fc
+4,Conference,EMNLP,Empirical Methods in Natural Language Processing,RegularConference,Databases,David G. Larman,10b31ee210d64c40b17d48fafec4aa5c
+5,Conference,SIGGRAPH,Special Interest Group on Computer Graphics and Interactive Techniques Conference,RegularConference,Databases,Frank Manola,ad8060f4684542f9bc6d0b52a2ce8229
+6,Conference,UbiComp,International Joint Conference on Pervasive and Ubiquitous Computing,ExpertGroups,Databases,Ralph J. Greenspan,264ab3cc58eb4c2f94567c1e719181de
+7,Journal,JASA,Journal of the American Statistical Association,,ArtificialIntelligence,Raheleh Heidari Feidt,a00da097d1604fc2ad1c497e2ac4ee5a
+8,Journal,JASIST,Journal of the Association for Information Science and Technology,,MachineLearning,Tankred Rautert,e24250e44b664f7e99aa3fb10944ad6c
+9,Journal,IEEE-TPAMI,IEEE Transactions on Pattern Analysis and Machine Intelligence,,NaturalLanguageProcessing,Helmut Seidl,ab7216a18d054bfdbf06472b472bef11
+10,Conference,AAAI,Association for the Advancement of Artificial Intelligence,RegularConference,MachineLearning,Betty B. Chaar,0dca73caefd14f2cb0904fb9feeac6e1
+11,Journal,IEEE-DS,IEEE Data Science and Engineering,,ArtificialIntelligence,Thomas R. Scott,9f35d5a5899646f38b0e37a14b79cde3
+12,Conference,COLT,Conference on Learning Theory,Workshop,ArtificialIntelligence,David G. Larman,10b31ee210d64c40b17d48fafec4aa5c
+13,Conference,MobiCom,ACM International Conference on Mobile Computing and Networking,RegularConference,NaturalLanguageProcessing,Rolf Sander,6620537386704472ad3f6f733571727a
+14,Journal,TOIS,ACM Transactions on Information Systems,,ArtificialIntelligence,Alexander Hevelke,f130f159e7f340d18e5f8f8d3f3fa47f
+15,Journal,JMLR,Journal of Machine Learning Research,,ArtificialIntelligence,Andrzej Górski,0af1bf3cc8ca4630adc77ca065c74f90
+16,Journal,ACM-TIST,ACM Transactions on Intelligent Systems and Technology,,ArtificialIntelligence,Raymond A. Lorie,786dc940459345d28a5ceee827fc3fb0
+17,Conference,CHI,Conference on Human Factors in Computing Systems,RegularConference,Databases,David G. Larman,10b31ee210d64c40b17d48fafec4aa5c
+18,Journal,ACM-CSUR,ACM Computing Surveys,,ArtificialIntelligence,Dieter Baum,2303f7a2ad2a4f91b1c027e21ccc34ea
+19,Conference,SIGCOMM,Special Interest Group on Data Communications Conference,RegularConference,Databases,Reiner Horst,d3d109cc225a4046b9a19686e337f74e
+20,Conference,UIST,ACM Symposium on User Interface Software and Technology,RegularConference,ArtificialIntelligence,Norbert Th. Müller,3e45921e13194a94a6da5f5b4b8d9d22
+21,Journal,AI,Artificial Intelligence Journal,,ArtificialIntelligence,Weishu Liu 0001,f03d1c7f6c36471da0ac4055584b67fa
+22,Conference,ACL,Association for Computational Linguistics,Workshop,NaturalLanguageProcessing,Noam Paz,8045cbce941d473388b62f680c7b5230
+23,Conference,INFOCOM,IEEE International Conference on Computer Communications,ExpertGroups,Databases,Elisabeth Neugebauer,e2fe17a825c44893840eb87160e6b15d
+24,Journal,MLJ,Machine Learning Journal,,Databases,Karin Neuhold,2154f5c6e9994b9dbda02e5ed3d8e3dc
+25,Conference,NeurIPS,Conference on Neural Information Processing Systems,ExpertGroups,NaturalLanguageProcessing,Markus Wiegelmann,9b49622bcb6a4419ae11297e92ac4034
+26,Journal,TPAMI,IEEE Transactions on Pattern Analysis and Machine Intelligence,,MachineLearning,Cristian Timmermann,f535305ad8664bb1addce449156af6e9
+27,Journal,IJCV,International Journal of Computer Vision,,NaturalLanguageProcessing,Charles Verharen,090f9a633a924f068968d34d74d3d541
+28,Conference,CVPR,IEEE/CVF Conference on Computer Vision and Pattern Recognition,RegularConference,MachineLearning,Michael Klein,a27f6af0753742e18deb90eece5f1b92
+29,Journal,IEEE-TKDE,IEEE Transactions on Knowledge and Data Engineering,,NaturalLanguageProcessing,Brian C. Martinson,4b43b31ea91d41ec94ee96bf05b4aaf5

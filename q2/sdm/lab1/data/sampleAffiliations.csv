@@ -1,0 +1,1278 @@
+,author,affiliation_type,affiliation
+0,Frank Manola,University,Duke University
+1,Michael L. Brodie,University,"University of California, Los Angeles"
+2,Michael Stonebraker,Company,Pfizer
+3,Farshad Nayeri,University,"University of Michigan, Ann Arbor"
+4,Joe D. Morrison,Company,Johnson & Johnson
+5,Mark F. Hornick,Company,Abbott Laboratories
+6,Alejandro P. Buchmann,Company,Hewlett Packard Enterprise
+7,Dimitrios Georgakopoulos,University,"University of Michigan, Ann Arbor"
+8,M. Tamer Özsu,Company,Thermo Fisher Scientific
+9,Sandra Heiler,University,Brown University
+10,Jim Melton,Company,Merck & Co.
+11,Jonathan Bauer,University,Massachusetts Institute of Technology
+12,Krishna G. Kulkarni,University,Johns Hopkins University
+13,Thomas Ludwig 0001,Company,Cisco Systems
+14,Claus-Rainer Rollinger,Company,Thermo Fisher Scientific
+15,Werner Emde,University,University of Pennsylvania
+16,Christoph Beierle,University,Yale University
+17,Hans Uszkoreit,University,"University of California, Berkeley"
+18,Udo Pletat,University,Columbia University
+19,Gert Smolka,Company,Bristol-Myers Squibb
+20,Markus Höhfeld,Company,Cisco Systems
+21,Birgit Wesche,Company,Bristol-Myers Squibb
+22,Christopher Habel,Company,Johnson & Johnson
+23,Michael Ley,University,Massachusetts Institute of Technology
+24,Stefan Böttcher,University,"University of California, Los Angeles"
+25,Ulrike Schwall,University,Brown University
+26,Bernd Walter,Company,Microsoft
+27,Rudi Studer,Company,Amazon
+28,Albert Maier,Company,IBM
+29,Erich Gehlen,University,University of Chicago
+30,Toni Bollinger,Company,Bristol-Myers Squibb
+31,Carola Eschenbach,Company,Dell Technologies
+32,Manfred Schmidt-Schauß,Company,Amazon
+33,Bernhard Beckert,University,University of Virginia
+34,Birgit Wendholt,University,Johns Hopkins University
+35,Gudrun Klose,University,"University of Michigan, Ann Arbor"
+36,Klaus Rehkämper,University,University of Chicago
+37,Michael Herweg,University,University of North Carolina at Chapel Hill
+38,Mohammed Nadjib Khenkhar,University,Brown University
+39,Simone Pribbenow,Company,Google
+40,Brigitte Bartsch-Spörl,University,"University of California, Los Angeles"
+41,Angelika Storrer,Company,Amgen
+42,Brigitte Bläser,University,Duke University
+43,Esther König,Company,Johnson & Johnson
+44,Claudia Mrotzek,Company,Intel
+45,Egon Börger,University,University of Pennsylvania
+46,Peter H. Schmitt,University,Yale University
+47,Michael Czymmeck,Company,Merck & Co.
+48,Helmar Gust,University,Massachusetts Institute of Technology
+49,Mechthild Rickheit,University,University of Virginia
+50,Petra Ludewig,Company,Facebook
+51,Kai von Luck,Company,Hewlett Packard Enterprise
+52,Martin Hübner,Company,Abbott Laboratories
+53,Ulrike Weiland,University,"University of California, Los Angeles"
+54,Elisabeth Neugebauer,Company,Hewlett Packard Enterprise
+55,Ewald Lang,University,University of Chicago
+56,Thomas Pirlein,Company,Johnson & Johnson
+57,Gerd Kortüm,University,University of Virginia
+58,Ingrid Renz,Company,Johnson & Johnson
+59,Noam Paz,University,Cornell University
+60,Christos Garidis,Company,Bristol-Myers Squibb
+61,Jennifer A. Brundage,University,Cornell University
+62,Maren Kresse,Company,Oracle
+63,Gregor Erbach,Company,Regeneron Pharmaceuticals
+64,Ulrike Rackow,University,Northwestern University
+65,Rolf Mayer,University,Northwestern University
+66,Rüdiger Wirth,Company,Microsoft
+67,Holger M. Wittmann,Company,Microsoft
+68,Bernd Abb,University,University of Virginia
+69,Kai Lebeth,University,California Institute of Technology
+70,Andreas Eisele 0001,Company,Facebook
+71,Jochen Dörre,Company,Regeneron Pharmaceuticals
+72,Rainer Bäuerle,University,Stanford University
+73,Michael Klein,University,Yale University
+74,Chin-Liang Chang,University,"University of California, Berkeley"
+75,E. F. Codd,University,Harvard University
+76,Jean-Marc Cadiou,Company,Facebook
+77,Nick Roussopoulos,Company,Dell Technologies
+78,Robert S. Arnold,University,University of Pennsylvania
+79,Roland Seiffert,University,Brown University
+80,Manfred Grothaus,University,"University of California, Los Angeles"
+81,Karin Klabunde,Company,Dell Technologies
+82,Stefan J. Schierholz,University,"University of California, Berkeley"
+83,Ingo Raasch,University,Dartmouth College
+84,Jörg H. Siekmann,University,University of Pennsylvania
+85,Ulrich Hedtstück,University,"University of Michigan, Ann Arbor"
+86,Herbert J. Leass,University,Yale University
+87,Jan Wilms,Company,Gilead Sciences
+88,Angi Voß,University,Cornell University
+89,Walter G. Olthoff,University,"University of California, Los Angeles"
+90,Reiner Hähnle,Company,Cisco Systems
+91,Stefan Gerberding,Company,Abbott Laboratories
+92,Werner Kernig,Company,Cisco Systems
+93,Andreas Arning,University,Cornell University
+94,Raymond A. Lorie,University,Cornell University
+95,Bernhard Nebel,Company,Hewlett Packard Enterprise
+96,Sebastian Millies,University,Yale University
+97,Kurt Eberle,University,Yale University
+98,Gregor Meyer,Company,Thermo Fisher Scientific
+99,Heiner Semle,University,Brown University
+100,Ipke Wachsmuth,Company,Bristol-Myers Squibb
+101,Bernd Page,Company,Microsoft
+102,D. Eberle,Company,Regeneron Pharmaceuticals
+103,D. Marx,Company,Apple
+104,Jürgen Pietsch,University,Cornell University
+105,P. Klug-Lier,Company,Amazon
+106,R. Zieschank,University,"University of Michigan, Ann Arbor"
+107,Volker Jantzen,University,Yale University
+108,Ralph Scheubrein,University,University of Chicago
+109,Bart Geurts,Company,Intel
+110,Wilfried Hötker,University,"University of California, Los Angeles"
+111,Uwe Reyle,University,"University of California, Berkeley"
+112,Wolfgang Wernecke,University,University of North Carolina at Chapel Hill
+113,Michael Tarnowski,Company,Cisco Systems
+114,Arne Pott,University,California Institute of Technology
+115,Tibor Kiss,Company,Dell Technologies
+116,Rob A. van der Sandt,Company,Oracle
+117,Jim Gray 0001,University,Duke University
+118,Vera Watson,University,California Institute of Technology
+119,Peter Bosch,University,Princeton University
+120,Günther Görz,Company,Hewlett Packard Enterprise
+121,Kjell Johan Sæbø,University,"University of Michigan, Ann Arbor"
+122,Stefan Benzschawel,University,Dartmouth College
+123,Donald D. Chamberlin,Company,Pfizer
+124,Raymond F. Boyce,University,University of Chicago
+125,Karin Neuhold,University,Harvard University
+126,Gerd Hoff,University,Northwestern University
+127,Martin Mundhenk,Company,Pfizer
+128,El-Sayed M. E. Mostafa,Company,Gilead Sciences
+129,Friedemann Leibfritz,University,Johns Hopkins University
+130,A. Battermann,University,University of Virginia
+131,Ekkehard W. Sachs,University,University of Pennsylvania
+132,Eyal Arian,Company,Dell Technologies
+133,Alexander Kaplan,Company,Bristol-Myers Squibb
+134,M. Böhm,University,California Institute of Technology
+135,Rainer Tichatschke,Company,Facebook
+136,Tim Voetmann,Company,IBM
+137,Manfred Laumen,Company,Johnson & Johnson
+138,Dieter Baum,University,Johns Hopkins University
+139,Artur Czumaj,University,Brown University
+140,Krzysztof Lorys,University,Johns Hopkins University
+141,Miroslaw Kutylowski,Company,Apple
+142,Przemyslawa Kanarek,Company,Google
+143,Klaus Jansen,Company,Dell Technologies
+144,Christoph Meinel,Company,Hewlett Packard Enterprise
+145,Jordan Gergov,Company,Bristol-Myers Squibb
+146,Harald Sack,Company,Bristol-Myers Squibb
+147,Matthias Heinkenschloss,University,University of Virginia
+148,Arno Wagner,University,University of Virginia
+149,Christian Stangier,Company,Hewlett Packard Enterprise
+150,Mirjam Dür,University,University of Virginia
+151,Reiner Horst,Company,Bristol-Myers Squibb
+152,Richard Rödler,University,Northwestern University
+153,Hubertus Th. Jongen,University,California Institute of Technology
+154,Oliver Stein,University,"University of California, Los Angeles"
+155,Lothar Breuer,University,Princeton University
+156,Patrick Reuther,University,"University of California, Los Angeles"
+157,Nguyen V. Thoai,University,Princeton University
+158,E. Levitin,Company,Pfizer
+159,Jürgen Huschens,Company,Apple
+160,Subhendu Bikash Hazra,Company,Abbott Laboratories
+161,Volker Schulz 0001,Company,Amazon
+162,Igor N. Kovalenko,University,Dartmouth College
+163,János Sztrik,University,Harvard University
+164,Oliver Möller,University,"University of Michigan, Ann Arbor"
+165,Volker Schillings,Company,Amgen
+166,Anna Slobodová,Company,Gilead Sciences
+167,Jochen Bern,Company,Hewlett Packard Enterprise
+168,Heidi Jäger,Company,Cisco Systems
+169,Bernd Sturmfels,University,University of Chicago
+170,Peter Gritzmann,University,Massachusetts Institute of Technology
+171,Flemming Nielson,Company,Bristol-Myers Squibb
+172,Helmut Seidl,Company,Cisco Systems
+173,Patrick Justen,Company,IBM
+174,Klaus Schwettmann,University,University of Virginia
+175,Ulrich Raber,Company,Dell Technologies
+176,Fabio Somenzi,Company,Regeneron Pharmaceuticals
+177,Thorsten Theobald,University,Yale University
+178,Attahiru Sule Alfa,Company,Cisco Systems
+179,Harald Luschgy,Company,Cisco Systems
+180,Siegfried Graf 0001,Company,Johnson & Johnson
+181,Kasyap Natarajan,Company,Oracle
+182,Jan-J. Rückmann,University,California Institute of Technology
+183,Carsten Damm,University,Brown University
+184,Gerhard J. Woeginger,Company,Facebook
+185,Hans L. Bodlaender,University,Cornell University
+186,Jens Hofmann 0001,University,"University of Michigan, Ann Arbor"
+187,Michael Ruvimovich Davidson,Company,Abbott Laboratories
+188,Christoph W. Keßler,Company,Facebook
+189,David G. Larman,Company,Amazon
+190,Victor Klee,Company,Abbott Laboratories
+191,D. Kleis,Company,Amgen
+192,Petra Scheffler,Company,Pfizer
+193,Ulrich Hertrampf,University,"University of Michigan, Ann Arbor"
+194,Stasys Jukna,University,Yale University
+195,Luciano Lenzini,Company,Merck & Co.
+196,S. Rotin,Company,Johnson & Johnson
+197,Martin Gugat,Company,Johnson & Johnson
+198,Craig Smith,University,Massachusetts Institute of Technology
+199,Vladimir V. Kalashnikov,University,"University of California, Los Angeles"
+200,C. Ould Ahmed Salem,University,Massachusetts Institute of Technology
+201,N. Lehdili,University,University of Pennsylvania
+202,Matthias Krause 0001,Company,Cisco Systems
+203,Stephan Waack,University,Duke University
+204,Andreas Brieden,Company,Bristol-Myers Squibb
+205,Marco Gilbert,University,Dartmouth College
+206,Belinda B. King,University,Duke University
+207,Lars Abbe,University,Columbia University
+208,Sebastian Maneth,Company,Hewlett Packard Enterprise
+209,Thomas Perst,University,Duke University
+210,Helmut Finner,Company,Intel
+211,Markus Roters,Company,Amgen
+212,Gurami Tsitsiashvili,Company,Amgen
+213,M. A. Osipova,University,Johns Hopkins University
+214,N. V. Koliev,Company,Merck & Co.
+215,Christian Fecht,Company,Johnson & Johnson
+216,Markus Holzer 0001,University,Duke University
+217,Rainer Hettich,Company,Thermo Fisher Scientific
+218,Daniel Görgen,University,Yale University
+219,Matthias Transier,University,Princeton University
+220,Peter Sturm 0001,University,"University of California, Berkeley"
+221,Wolfgang Effelsberg,University,University of Pennsylvania
+222,Anthony J. Hayter,University,Stanford University
+223,Markus Müller-Olm,Company,Hewlett Packard Enterprise
+224,Joachim Reiter,University,"University of California, Berkeley"
+225,Rustam Mubarakzjanov,University,California Institute of Technology
+226,Thomas Burger,Company,Amgen
+227,Mikail Gevantmakher,University,Columbia University
+228,Michael Schmitt 0002,Company,Amazon
+229,Gianpiero Cabodi,Company,Oracle
+230,Stefano Quer,University,Massachusetts Institute of Technology
+231,Ditmar Erdmann,University,Cornell University
+232,Peter Dierolf,University,Massachusetts Institute of Technology
+233,Volker Schmidt,University,Duke University
+234,Paul B. Hermanns,Company,Amgen
+235,Markus R. Schmidt,University,Stanford University
+236,R. J. Gardner,University,Massachusetts Institute of Technology
+237,B. S. Tam,Company,Facebook
+238,Anderson Rocha 0001,University,Dartmouth College
+239,Jacques Wainer,Company,Gilead Sciences
+240,Michael Eckmann,University,Massachusetts Institute of Technology
+241,Siome Goldenstein,Company,Abbott Laboratories
+242,C. J. Date 0001,Company,Cisco Systems
+243,Hugo Hellebrand,University,University of North Carolina at Chapel Hill
+244,Markus Casper,University,California Institute of Technology
+245,Ralf Merz,Company,Regeneron Pharmaceuticals
+246,Rita Ley,Company,Google
+247,Markus Tresch,Company,Oracle
+248,Colleen Murphy,Company,Regeneron Pharmaceuticals
+249,Paolo Gardoni,Company,Oracle
+250,Lishan Lan,University,Duke University
+251,Qin Zhu,Company,Hewlett Packard Enterprise
+252,Yongmou Liu,Company,Cisco Systems
+253,Jaime A. Teixeira da Silva,University,Dartmouth College
+254,Vito L. Punzi,Company,Facebook
+255,William J. Frey,University,University of Chicago
+256,Adrian Treloar,University,Duke University
+257,Alastair J. D. Macdonald,Company,Dell Technologies
+258,Dimitrios Adamis,University,Northwestern University
+259,Finbarr C. Martin,Company,Google
+260,Laura Yenisa Cabrera Trujillo,University,Brown University
+261,Sabrina Engel-Glatter,Company,Johnson & Johnson
+262,Peter M. Attia,Company,Bristol-Myers Squibb
+263,Albert P. C. Chan,Company,Microsoft
+264,Amos Darko,Company,Amgen
+265,Igor Martek,University,Dartmouth College
+266,M. Reza Hosseini,Company,Dell Technologies
+267,Mahdi Tahmasebi,Company,Bristol-Myers Squibb
+268,Saeed Banihashemi,University,Northwestern University
+269,Christian Gamborg,University,Massachusetts Institute of Technology
+270,Ellen-Marie Forsberg,University,University of Virginia
+271,Karsten Klint Jensen,University,Northwestern University
+272,Kate Millar,Company,Apple
+273,Peter Sandøe,University,University of Chicago
+274,Gizell Green,Company,Apple
+275,Miri Barak,Company,Amazon
+276,Fabrizia Faustinella,University,"University of Michigan, Ann Arbor"
+277,Giovanni M. Pes,University,Cornell University
+278,Maria Pina Dore,University,Harvard University
+279,David Koepsell,Company,Amgen
+280,Sylvia C. Pont,Company,Facebook
+281,Willem-Paul Brinkman,Company,Abbott Laboratories
+282,Anna Krizanova,Company,Bristol-Myers Squibb
+283,Jana Kliestikova,University,California Institute of Technology
+284,Maria Misankova,University,"University of California, Los Angeles"
+285,Tatiana Corejova,Company,Hewlett Packard Enterprise
+286,Tomas Kliestik,University,Cornell University
+287,Seumas Miller,University,Northwestern University
+288,Reena Cheruvalath,University,Massachusetts Institute of Technology
+289,Cathal D. O'Connell,Company,Regeneron Pharmaceuticals
+290,Frédéric Gilbert 0003,University,Columbia University
+291,Susan Dodds,Company,Johnson & Johnson
+292,Tajanka Mladenovska,University,California Institute of Technology
+293,Lars Lindblom,University,Columbia University
+294,Per Wikman-Svahn,University,Northwestern University
+295,Maarten C. A. van der Sanden,Company,Amgen
+296,Patricia Osseweijer,University,University of Pennsylvania
+297,Steven M. Flipse,Company,Amgen
+298,Vance W. Berger,Company,Gilead Sciences
+299,David B. Resnik,Company,Gilead Sciences
+300,Kathy Partin,University,Duke University
+301,Taraswi Banerjee,Company,Bristol-Myers Squibb
+302,Andrea Owe,University,Dartmouth College
+303,Mark Coeckelbergh,Company,Pfizer
+304,Seth D. Baum,University,Columbia University
+305,Emel Aközer,Company,Bristol-Myers Squibb
+306,Mehmet Aközer,Company,Regeneron Pharmaceuticals
+307,Alexander Hevelke,University,Stanford University
+308,Julian Nida-Rümelin,University,Harvard University
+309,Carol B. Fowler,Company,Amazon
+310,David L. Evers,Company,Johnson & Johnson
+311,Jeffrey T. Mason,Company,Johnson & Johnson
+312,Rebecca K. Mimnall,Company,Regeneron Pharmaceuticals
+313,Emmanuel Kingsford Owusu,University,Princeton University
+314,Erika Pärn,University,Princeton University
+315,Ming Shan,University,Stanford University
+316,Raphael Cohen-Almagor,University,Johns Hopkins University
+317,Byron Newberry,University,Harvard University
+318,Greta Gorsuch,University,Stanford University
+319,Katherine A. Austin,University,California Institute of Technology
+320,Thomas Darwin,University,Princeton University
+321,William D. Lawson,Company,Abbott Laboratories
+322,Conrad Heilmann,Company,Microsoft
+323,A. Lauren Crain,Company,Regeneron Pharmaceuticals
+324,Brian C. Martinson,University,University of Pennsylvania
+325,Carol R. Thrush,University,University of Virginia
+326,René von Schomberg,Company,Regeneron Pharmaceuticals
+327,Alexander Mertens,Company,Gilead Sciences
+328,Christopher Brandl,University,Stanford University
+329,Frank Ole Flemisch,University,Northwestern University
+330,Jochen Nelles,Company,Amazon
+331,Katharina Schäfer,University,Massachusetts Institute of Technology
+332,Martin Frenz,University,"University of California, Los Angeles"
+333,Matthias Wille,Company,Amazon
+334,Peter Rasche,Company,Microsoft
+335,Verena Nitsch,University,Princeton University
+336,Katherine A. McComas,University,University of Pennsylvania
+337,Anders Braarud Hanssen,University,Northwestern University
+338,Hanne Marie Nielsen,Company,Cisco Systems
+339,Ingrid Olesen,University,Columbia University
+340,Philippe A. Tanguy,Company,Bristol-Myers Squibb
+341,Thierry C. Pauchant,Company,Thermo Fisher Scientific
+342,Yoann Guntzburger,University,"University of California, Berkeley"
+343,Gianmarco Baldini,University,California Institute of Technology
+344,Maarten Botterman,University,"University of California, Los Angeles"
+345,Mariachiara Tallacchini,Company,Abbott Laboratories
+346,Ricardo Neisse,University,University of Pennsylvania
+347,Jukka Varelius,Company,Oracle
+348,Bernice Elger,Company,Dell Technologies
+349,Fabrice Jotterand,University,Stanford University
+350,Marcello Ienca,Company,Oracle
+351,Reto W. Kressig,Company,Intel
+352,Tenzin Wangmo,Company,Amgen
+353,Simona Hasková,Company,Amgen
+354,Yue Liang Zheng,Company,Amgen
+355,Hugh P. Shanahan,Company,Apple
+356,Louise Bezuidenhout,Company,Intel
+357,Robert Quick,University,Cornell University
+358,Sven Nyholm,University,Duke University
+359,Cary Moskovitz,Company,Microsoft
+360,Anton Petrenko,University,Harvard University
+361,Dan McArthur,Company,Intel
+362,Michael J. Selgelid,Company,Google
+363,Nicholas G. Evans,University,Massachusetts Institute of Technology
+364,Bert van Wee,Company,Johnson & Johnson
+365,Bert Gordijn,Company,Abbott Laboratories
+366,David Wright 0003,Company,Merck & Co.
+367,Declan O'Sullivan,University,Brown University
+368,Karsten Weber,University,Brown University
+369,Philip Brey,Company,Regeneron Pharmaceuticals
+370,Rowena Rodrigues,Company,IBM
+371,Wessel Reijers,University,University of Pennsylvania
+372,Glenn Borchardt,University,Dartmouth College
+373,Mehdi Dadkhah,Company,Abbott Laboratories
+374,Mohammad Lagzian,Company,Amgen
+375,Heidrun Åm,University,Columbia University
+376,Knut H. Sørensen,Company,Amgen
+377,Maria Bårdsen Hesjedal,University,Yale University
+378,Roger Strand,Company,Cisco Systems
+379,Susan A. Elmore,Company,Pfizer
+380,Matthew J. Dennis,Company,Pfizer
+381,James A. Blumenthal,Company,Pfizer
+382,Kenneth H. Funk II,University,California Institute of Technology
+383,Wei-Tau Lee,University,Dartmouth College
+384,Catherine D'Ignazio,Company,Bristol-Myers Squibb
+385,Don Blair,University,"University of California, Berkeley"
+386,Hagit Keysar,Company,Amgen
+387,Pablo Rey-Mazón,Company,Oracle
+388,Shannon Dosemagen,Company,Johnson & Johnson
+389,Grant Fore,Company,IBM
+390,Justin L. Hess,Company,Microsoft
+391,Hossein Yahaghi,University,University of Pennsylvania
+392,Javad Yahaghi,University,Johns Hopkins University
+393,Shahryar Sorooshian,Company,Thermo Fisher Scientific
+394,Gerd Michelsen,Company,Abbott Laboratories
+395,Auke J. K. Pols,Company,Apple
+396,Eugenijus Gefenas,Company,Cisco Systems
+397,Jurate Lekstutiene,Company,Intel
+398,Søren Holm,Company,Facebook
+399,Chijs van Nieuwenhuizen,University,"University of Michigan, Ann Arbor"
+400,David Buitenweg,Company,Gilead Sciences
+401,Ilja L. Bongers,Company,Thermo Fisher Scientific
+402,Ivo Maathuis,University,University of Chicago
+403,Maartje G. H. Niezen,Company,Merck & Co.
+404,Frida Simonstein,Company,Facebook
+405,Douglas Walton,Company,Bristol-Myers Squibb
+406,Glen Miller,University,"University of California, Berkeley"
+407,Dalal M. Al Tamimi,University,Massachusetts Institute of Technology
+408,Magdy A. Kharoshah,Company,Abbott Laboratories
+409,Mohammed Madadin,Company,Oracle
+410,Ritesh G. Menezes,Company,Amazon
+411,Savita Lasrado,Company,Facebook
+412,Vijaya Marakala,University,Johns Hopkins University
+413,Jasmin Wilson,Company,Amazon
+414,Patricia Ann Mabrouk,Company,Thermo Fisher Scientific
+415,Yiyang Gao,University,Brown University
+416,Brian P. Coppola,Company,Apple
+417,Huai Sun,University,Brown University
+418,India C. Plough,University,Princeton University
+419,Alain Braillon,Company,Amgen
+420,Khaled Moustafa,University,Stanford University
+421,Daming Zhang,Company,Regeneron Pharmaceuticals
+422,Qinghui Suo,University,Cornell University
+423,Yang Liu,University,Dartmouth College
+424,Kelly Laas,Company,Amazon
+425,Michael Davis,Company,Amazon
+426,Elizabeth A. Boyd,University,Princeton University
+427,Lisa A. Bero,University,Johns Hopkins University
+428,Philip J. Langlais,University,"University of Michigan, Ann Arbor"
+429,Aimee van Wynsberghe,Company,Thermo Fisher Scientific
+430,Emma Keuleyan,University,University of North Carolina at Chapel Hill
+431,Kewal Krishan,Company,Facebook
+432,Tanuj Kanchan,University,Princeton University
+433,Amos K. Laar,Company,Microsoft
+434,Arthur Caplan,University,Stanford University
+435,Barbara K. Redman,University,Northwestern University
+436,Kyle Ferguson,Company,Thermo Fisher Scientific
+437,Abhishek Tandon,University,Northwestern University
+438,Alex Richman,Company,Apple
+439,Vincent Richman,University,Massachusetts Institute of Technology
+440,Ahmed Fouad Bouras,University,Yale University
+441,Hadjar Toumi,Company,Abbott Laboratories
+442,Lamia Kara,Company,Hewlett Packard Enterprise
+443,Mustapha Benmansour,Company,Pfizer
+444,Nassim Kazitani,University,University of Chicago
+445,Noureddine Bettahar,Company,Merck & Co.
+446,Arie Rip,Company,Intel
+447,Christine Winberg,Company,IBM
+448,Penelope Engel-Hills,University,Johns Hopkins University
+449,Erik Laes,Company,Bristol-Myers Squibb
+450,Gunter Bombaerts,University,"University of California, Berkeley"
+451,Ali Shirzadi,Company,Intel
+452,Ashish Patel,Company,Gilead Sciences
+453,Doniel Drazin,University,"University of California, Los Angeles"
+454,George Hanna,Company,Gilead Sciences
+455,Kevin Spitler,Company,Gilead Sciences
+456,Milos Cekic,University,Dartmouth College
+457,Ray Chu,Company,Cisco Systems
+458,Charles E. Harris,Company,Pfizer
+459,William T. Lynch,Company,Hewlett Packard Enterprise
+460,Matthew A. Butkus,University,University of Pennsylvania
+461,Steffen Steinert,Company,IBM
+462,Udo Pesch,University,California Institute of Technology
+463,Charlotte Stix,University,Johns Hopkins University
+464,Charles-Henry Frouart,Company,Merck & Co.
+465,Christian Hervé,Company,Dell Technologies
+466,Christophe Le Tourneau,University,University of Virginia
+467,Guillaume Vogt,University,Harvard University
+468,Henri-Corto Stoeklé,University,Johns Hopkins University
+469,Marie-France Mamzer-Bruneel,Company,IBM
+470,Pierre Laurent-Puig,University,Stanford University
+471,Ruchen Wen,Company,Facebook
+472,Ryan Blake Jackson,University,Princeton University
+473,Tom Williams 0001,Company,Google
+474,Matthew A. Allison,University,Brown University
+475,Michael W. Kalichman,University,Yale University
+476,Sean T. Powell,Company,Apple
+477,Ronnie Hawkins,Company,Thermo Fisher Scientific
+478,Philip Robichaud,Company,Gilead Sciences
+479,T. Prabhakar Clement,Company,IBM
+480,Hugh Desmond,Company,Regeneron Pharmaceuticals
+481,Wolfhart Totschnig,University,Johns Hopkins University
+482,Hong Chen,University,Brown University
+483,Hui Lu,Company,Abbott Laboratories
+484,Ruyin Long,Company,Thermo Fisher Scientific
+485,Wei Du,University,Cornell University
+486,Annibale Biggeri,Company,Hewlett Packard Enterprise
+487,Zubin Master,University,Cornell University
+488,Bridget M. Noonan,University,Northwestern University
+489,Debra Parrish,University,University of Virginia
+490,Bernice Simone Elger,Company,IBM
+491,Marc Folcher,University,Cornell University
+492,Raheleh Heidari Feidt,University,Dartmouth College
+493,Margaret C. Thompson,University,University of Chicago
+494,Neelke Doorn,Company,IBM
+495,Jenny Krutzinna,University,Stanford University
+496,Luciano Floridi,Company,IBM
+497,Mariarosaria Taddeo,University,Johns Hopkins University
+498,Robert Frodeman,University,Harvard University
+499,Neha Baryah,Company,Merck & Co.
+500,Richa Mukhra,Company,Pfizer
+501,Alex John London,Company,Merck & Co.
+502,Frauke Hoss,Company,Dell Technologies
+503,Valérie Racine,University,University of North Carolina at Chapel Hill
+504,Amin Asadi,Company,Hewlett Packard Enterprise
+505,Fahime Asadi,Company,Cisco Systems
+506,Kokab Khalili Paji,University,Cornell University
+507,Meisam Asadi,Company,Cisco Systems
+508,Nader Rahbar,University,California Institute of Technology
+509,Mark S. Davis,University,"University of California, Berkeley"
+510,Michelle Riske-Morris,University,Northwestern University
+511,Sebastian R. Diaz,Company,Pfizer
+512,Angelina Patrick Olesen,Company,Abbott Laboratories
+513,Latifah Amin,Company,Oracle
+514,Siti Nurani Mohd Nor,University,University of Chicago
+515,Dena Plemmons,University,University of Pennsylvania
+516,Monica Sweet,Company,Dell Technologies
+517,Herman Paul,University,Princeton University
+518,Dorthie Cross,Company,Regeneron Pharmaceuticals
+519,Michael J. Kuhar,University,University of Virginia
+520,Sven Ove Hansson,University,Princeton University
+521,Alexandra Kapeller,Company,Bristol-Myers Squibb
+522,Ann-Marie Hughes,University,Harvard University
+523,Eduard Fosch-Villaronga,University,California Institute of Technology
+524,Heike Felzmann,Company,Intel
+525,Shunhai Qu,University,Harvard University
+526,Viroj Wiwanitkit,University,University of North Carolina at Chapel Hill
+527,Jason Borenstein,Company,Google
+528,Julie L. Swann,University,University of Chicago
+529,Matthew J. Drake,University,University of North Carolina at Chapel Hill
+530,Robert Kirkman,Company,Merck & Co.
+531,Erika Spuchlakova,Company,Abbott Laboratories
+532,Pavol Kral,Company,Pfizer
+533,Bor Luen Tang,Company,Merck & Co.
+534,Georgina Voss,Company,Amazon
+535,Jakob Stenseke,University,Harvard University
+536,Shan Jing,University,Columbia University
+537,Kenneth V. Iserson,University,University of Virginia
+538,Bernice S. Elger,University,"University of California, Los Angeles"
+539,David M. Shaw,Company,Microsoft
+540,Isabelle Wienand,Company,Thermo Fisher Scientific
+541,Milenko Rakic,University,University of Pennsylvania
+542,Rebecca Nast,University,"University of California, Berkeley"
+543,Betty B. Chaar,University,Stanford University
+544,Iman A. Basheti,Company,Amgen
+545,Leen B. Fino,University,University of Chicago
+546,Joe Giffels,University,"University of California, Los Angeles"
+547,Sara H. Vollmer,Company,Pfizer
+548,Stephanie J. Bird,University,University of Virginia
+549,Colin Berry,University,University of Virginia
+550,Maryam Alsadat Hashemipour,Company,Pfizer
+551,Nader Navabi,University,University of Virginia
+552,Sepehr Pourmonajemzadeh,University,Northwestern University
+553,Shahrzad Zoghitavana,Company,Merck & Co.
+554,Shane Epting,Company,Amazon
+555,Gabrielle Wong-Parodi,University,Massachusetts Institute of Technology
+556,Wandi Bruine de Bruin,Company,Microsoft
+557,Antje Schnarr,Company,Intel
+558,Marcel Mertz,University,California Institute of Technology
+559,William Bülow,University,Harvard University
+560,Raymond E. Spier,Company,Johnson & Johnson
+561,Charles Verharen,University,Columbia University
+562,Hutan Ashrafian,Company,Cisco Systems
+563,George Wang,Company,Oracle
+564,Russell George Thompson,Company,Hewlett Packard Enterprise
+565,Victoria Sutton,University,Yale University
+566,Aaron D. Levine,Company,Gilead Sciences
+567,Laura Palucki Blake,Company,Facebook
+568,Roberta M. Berry,University,Harvard University
+569,Richard Meissner,University,Duke University
+570,Shannon L. Spruit,University,University of North Carolina at Chapel Hill
+571,Zoë Robaey,Company,Dell Technologies
+572,Carrie J. McClelland,Company,Amazon
+573,Jessica M. Smith,Company,Pfizer
+574,Nicole M. Smith,Company,Cisco Systems
+575,Alok Atreya,Company,Amgen
+576,Judy Illes,Company,Amgen
+577,Mark J. Cook,University,Dartmouth College
+578,Terence J. O'Brien,Company,Google
+579,Md Zahidul Islam 0001,Company,Cisco Systems
+580,Yeslam Al-Saggaf,Company,Pfizer
+581,Keiko Sato,Company,Abbott Laboratories
+582,Mika Suzuki,Company,Google
+583,Ilija Cosic,Company,Johnson & Johnson
+584,Mladen Pecujlija,University,University of Chicago
+585,Velibor Ivanisevic,University,"University of California, Los Angeles"
+586,Gina M. Eosco,University,Columbia University
+587,Meghnaa Tallapragada,Company,Apple
+588,Bruno Turnheim,University,University of North Carolina at Chapel Hill
+589,Mehmet Y. Tezcan,University,Johns Hopkins University
+590,David D. Woods,University,"University of California, Los Angeles"
+591,Mark D. Layson,Company,Merck & Co.
+592,Sidney W. A. Dekker,University,University of Pennsylvania
+593,Céline Kermisch,Company,Abbott Laboratories
+594,Jeffrey Kovac,Company,Google
+595,Dennis M. Gorman,Company,Hewlett Packard Enterprise
+596,Orsolya Friedrich,University,University of Pennsylvania
+597,Sebastian Schleidgen,Company,Facebook
+598,Knut Jørgen Vie,University,California Institute of Technology
+599,Anat Elhalal,Company,Merck & Co.
+600,Jessica Morley,University,Brown University
+601,Libby Kinsey,Company,Dell Technologies
+602,Margaret Satterthwaite,University,University of North Carolina at Chapel Hill
+603,Angie A. Kehagia,Company,Apple
+604,Carole Federico,University,California Institute of Technology
+605,Gary H. Glover,Company,Apple
+606,Kate Tairyan,Company,Dell Technologies
+607,Ilse Oosterlaken,Company,Regeneron Pharmaceuticals
+608,Karen B. Schmaling,Company,Abbott Laboratories
+609,Lisa A. Thompson,Company,Regeneron Pharmaceuticals
+610,Scott R. Glisson,University,University of Chicago
+611,Stephen A. Gallo,Company,Google
+612,Abeer M. Rababa'h,University,Columbia University
+613,Karem H. Alzoubi,Company,Cisco Systems
+614,Mera Ababneh,Company,Amgen
+615,Omar F. Khabour,University,California Institute of Technology
+616,Eun Ah Lee,Company,Merck & Co.
+617,Magdalena Grohman,Company,Intel
+618,Marco Tacca,University,University of Pennsylvania
+619,Matthew J. Brown,University,Cornell University
+620,Nicholas R. Gans,University,Brown University
+621,Nina Frahm,University,California Institute of Technology
+622,Sebastian M. Pfotenhauer,Company,Abbott Laboratories
+623,Sophia Knopf,Company,Abbott Laboratories
+624,Ana Marusic,University,Brown University
+625,Domagoj Markovic,Company,Intel
+626,Mario Malicki,University,Harvard University
+627,Matko Marusic,Company,Pfizer
+628,Vedran Katavic,Company,Regeneron Pharmaceuticals
+629,Justin Smith 0004,Company,Oracle
+630,Matteo E. Bonfanti,Company,Merck & Co.
+631,Blake J. Bent,Company,Oracle
+632,Gert-Jan C. Lokhorst,Company,Merck & Co.
+633,Frauke Koppelin,Company,Hewlett Packard Enterprise
+634,Mark Schweda,University,University of Virginia
+635,Merle Weßel,University,Dartmouth College
+636,Niklas Ellerich-Groppe,University,Duke University
+637,Christopher B. Freelance,Company,Regeneron Pharmaceuticals
+638,Anjali Truitt,Company,Amazon
+639,Eran Klein,Company,IBM
+640,Laura Specker Sullivan,Company,Regeneron Pharmaceuticals
+641,Matthew Sample,University,Northwestern University
+642,Michelle Pham,Company,Dell Technologies
+643,Paul Tubig,University,University of North Carolina at Chapel Hill
+644,Raney Folland,Company,Merck & Co.
+645,Sara Goering,Company,Abbott Laboratories
+646,Tim Brown,Company,Cisco Systems
+647,Elaine S. Godfrey,Company,Gilead Sciences
+648,Michael D. Mumford,University,Harvard University
+649,Richard T. Marcy,Company,Johnson & Johnson
+650,Sydney T. Sevier,Company,Oracle
+651,Vykinta Kligyte,University,Princeton University
+652,Mohammad Javad Rezvani,Company,Oracle
+653,Josep M. Basart,Company,Pfizer
+654,Montse Serra,University,Massachusetts Institute of Technology
+655,Kamil Mamak,Company,Intel
+656,Ineke Malsch,University,"University of California, Berkeley"
+657,José G. B. Derraik,University,University of Virginia
+658,Béatrice Godard,University,Yale University
+659,Thierry Hurlimann,University,Cornell University
+660,Vincent Menuz,Company,Johnson & Johnson
+661,Saadia Mahmud,University,Princeton University
+662,Tracey Bretag,Company,Microsoft
+663,Mónica Mendes,Company,IBM
+664,Nuno Correia 0001,Company,Oracle
+665,Pedro Ângelo,University,University of Pennsylvania
+666,Valentina Nisi,University,University of Pennsylvania
+667,Eduardo Mendieta,Company,Oracle
+668,Thomas A. Litzinger,University,University of Virginia
+669,Xiaofeng Tang,Company,Abbott Laboratories
+670,Maja Horst,University,Duke University
+671,Anna Marousková,University,Princeton University
+672,Marek Vochozka,Company,Hewlett Packard Enterprise
+673,Petr Suler,University,Johns Hopkins University
+674,Bjørn Hofmann,University,"University of Michigan, Ann Arbor"
+675,Alan Zimmerman,University,Dartmouth College
+676,Cameron Gordon,University,University of Pennsylvania
+677,Christopher Kampe,Company,Amgen
+678,Colleen S.,Company,Amgen
+679,Gwendolynne Reid,University,Northwestern University
+680,Kathleen M. Vogel,Company,Apple
+681,Paul Jones 0001,Company,Cisco Systems
+682,Sean Streck,University,"University of California, Los Angeles"
+683,Behzad Ataie-Ashtiani,University,Dartmouth College
+684,Hossein Esmaeili,Company,Google
+685,Dusanka Krajnovic,University,Northwestern University
+686,Ivana Tadic,Company,Microsoft
+687,Mirko Savic,University,University of North Carolina at Chapel Hill
+688,Svetlana Stojkov,Company,Amazon
+689,Tatjana Crnjanski,University,"University of Michigan, Ann Arbor"
+690,David J. Kijowski,Company,Gilead Sciences
+691,Harry Dankowicz,University,Northwestern University
+692,Michael C. Loui,University,Northwestern University
+693,Jesse Engebretson,Company,Apple
+694,Kyle Powys Whyte,University,"University of California, Berkeley"
+695,Michael O'Rourke,Company,Intel
+696,Sean Valles,University,Johns Hopkins University
+697,Troy E. Hall,University,Princeton University
+698,Zach Piso,University,Princeton University
+699,Reinhard Kreissl,Company,Facebook
+700,Carl Mitcham,Company,Cisco Systems
+701,Elaine E. Englehardt,Company,Cisco Systems
+702,Barry Bozeman,University,California Institute of Technology
+703,Jan L. Youtie,University,Columbia University
+704,Alexandra E. MacDougall,University,Duke University
+705,Cory Higgs,Company,Bristol-Myers Squibb
+706,Logan M. Steele,Company,Abbott Laboratories
+707,Megan R. Turner,University,"University of Michigan, Ann Arbor"
+708,Paul Partlow,Company,Merck & Co.
+709,Shane Connelly,Company,Thermo Fisher Scientific
+710,Tristan McIntosh,Company,Microsoft
+711,Furio Cerutti,Company,Thermo Fisher Scientific
+712,Ping Yan,University,University of Virginia
+713,Qian Wang,University,Stanford University
+714,Maria Paola Ferretti,Company,Intel
+715,Dale J. Benos,Company,Intel
+716,Marzieh Maghrouni,University,Dartmouth College
+717,Omid Mahian,University,University of Pennsylvania
+718,Somchai Wongwises,Company,Abbott Laboratories
+719,Jeroen van den Hoven,University,Princeton University
+720,Benjamin Hurwitz,Company,Regeneron Pharmaceuticals
+721,Cetin Ozbutun,Company,Cisco Systems
+722,David Beech,Company,Oracle
+723,Mike Kelley,Company,Apple
+724,Phil Shaw,Company,Facebook
+725,Rolf Sander,University,Cornell University
+726,Ido Dagan,Company,Cisco Systems
+727,Burkhard Kehrbusch,Company,Johnson & Johnson
+728,Gisela Schöpke,University,"University of California, Berkeley"
+729,Hans-Joachim Goltz,University,Harvard University
+730,Otthein Herzog,University,"University of California, Los Angeles"
+731,Anja Theuner,Company,Dell Technologies
+732,Claudia Maienborn,Company,Apple
+733,Stefan Börner,Company,Amazon
+734,Lutz Voelkel,University,Stanford University
+735,Kai-Uwe Carstensen,Company,Intel
+736,Eric Mays,University,Princeton University
+737,Sitaram Lanka,Company,Amgen
+738,Petra Maier,University,"University of California, Los Angeles"
+739,Bruce G. Lindsay 0001,Company,Regeneron Pharmaceuticals
+740,Michel E. Adiba,University,Duke University
+741,Eric Windisch,Company,Microsoft
+742,Peter Gerstl,Company,Thermo Fisher Scientific
+743,Dines Bjørner,University,"University of California, Berkeley"
+744,Irving L. Traiger,University,"University of Michigan, Ann Arbor"
+745,Kenneth L. Deckert,University,University of Pennsylvania
+746,Sonja Müller,Company,Intel
+747,Jörg Heinrich,Company,Facebook
+748,Sven Lorenz,University,Brown University
+749,Petra Steffens,Company,Oracle
+750,Karl Dotzek,University,University of Chicago
+751,H. Raymond Strong,University,"University of California, Los Angeles"
+752,Sai Choi Kwan,University,Princeton University
+753,Nikolaus Ott,Company,Intel
+754,Christian Rohrer,University,University of Pennsylvania
+755,F. Günthner,Company,Oracle
+756,Siegfried Kanngießer,Company,Abbott Laboratories
+757,Elisabeth Breidt,Company,Intel
+758,Oliver Wauschkuhn,Company,Pfizer
+759,Bernd I. Dahn,Company,Johnson & Johnson
+760,Theodor Lettmann,Company,Google
+761,Wolfgang Schönfeld,University,University of Virginia
+762,Cesare A. Galtieri,Company,Thermo Fisher Scientific
+763,Astrid Schmücker-Schend,University,University of Pennsylvania
+764,Christoph Lingenfelder,University,Dartmouth College
+765,Joachim Maier,Company,Abbott Laboratories
+766,Hinrich Schütze,University,University of North Carolina at Chapel Hill
+767,Petra Schulz,University,Northwestern University
+768,Anne Schiller,University,University of North Carolina at Chapel Hill
+769,M. Wermke,Company,Regeneron Pharmaceuticals
+770,Karl-Hans Bläsius,Company,Regeneron Pharmaceuticals
+771,Elke Busch,Company,Google
+772,William C. Rounds,University,"University of Michigan, Ann Arbor"
+773,Kurt Rothermel,University,Johns Hopkins University
+774,Josef Gemander,Company,Abbott Laboratories
+775,Karel Oliva,Company,Facebook
+776,Jutta Kreiß,Company,Bristol-Myers Squibb
+777,Jürgen Manowsky,University,University of Pennsylvania
+778,Karl Schlechta,University,Princeton University
+779,Geoffrey Simmons,University,Massachusetts Institute of Technology
+780,Adrian Müller,Company,Bristol-Myers Squibb
+781,Robert A. Weida,Company,Oracle
+782,Robert Dionne,University,Massachusetts Institute of Technology
+783,George Markowsky,University,"University of Michigan, Ann Arbor"
+784,Stefan Bayerl,Company,Bristol-Myers Squibb
+785,Jean-Yves Lerner,Company,Pfizer
+786,Ulrich Schatz,University,"University of California, Los Angeles"
+787,Gosse Bouma,Company,Intel
+788,Bradford W. Wade,Company,Regeneron Pharmaceuticals
+789,John Westwater,Company,Oracle
+790,Florian Jarre,University,"University of California, Los Angeles"
+791,Klaus Lux,Company,Oracle
+792,Markus Wiegelmann,Company,Johnson & Johnson
+793,Beniamino Di Martino,Company,Amgen
+794,Wei Zhou 0006,Company,Thermo Fisher Scientific
+795,Anna Bernasconi 0001,Company,Gilead Sciences
+796,Igor E. Shparlinski,University,Yale University
+797,Le Dung Muu,University,Brown University
+798,M. Nast,Company,Regeneron Pharmaceuticals
+799,Hannes Frey,University,Stanford University
+800,Johannes K. Lehnert,Company,Gilead Sciences
+801,Marco Fahl,University,Massachusetts Institute of Technology
+802,Andreas Neumann 0001,Company,Microsoft
+803,Randal E. Bryant,University,"University of California, Los Angeles"
+804,Elena Dubrova,University,Harvard University
+805,Horst Schmitt,University,University of Chicago
+806,Peter Willems,Company,Intel
+807,Dieter Prangenberg,University,University of Chicago
+808,Thomas Erlebach,University,Cornell University
+809,Abdelouahed Hamdi,Company,Gilead Sciences
+810,Norbert Th. Müller,University,Massachusetts Institute of Technology
+811,Volker Klotz,Company,Thermo Fisher Scientific
+812,Dimitri Efrosinin,Company,IBM
+813,Vladimir Rykov,University,Stanford University
+814,Holger Class,Company,Intel
+815,Rainer Helmig,Company,Google
+816,Katja Lenz,University,Stanford University
+817,Alexander Hufnagel,University,"University of California, Berkeley"
+818,Tankred Rautert,Company,Amazon
+819,Dirk Frosch,University,Dartmouth College
+820,Jirí Sgall,University,Cornell University
+821,Oleg V. Khamisov,Company,Bristol-Myers Squibb
+822,Varmo Vene,University,Johns Hopkins University
+823,Feng Cheng 0002,Company,Facebook
+824,Paul Ferring,Company,Abbott Laboratories
+825,Martin Luckow,University,"University of Michigan, Ann Arbor"
+826,Dirk Frosch-Wilke,University,Cornell University
+827,Christopher Lusena,University,Princeton University
+828,Eric Allender,University,University of North Carolina at Chapel Hill
+829,Judy Goldsmith,Company,Bristol-Myers Squibb
+830,Aditya V. Nori,Company,Amgen
+831,Ulrich Holtmann,Company,Cisco Systems
+832,C. T. Kelley,University,University of Virginia
+833,Peter Rossmanith,Company,Merck & Co.
+834,Clemens Lautemann,University,Massachusetts Institute of Technology
+835,Heribert Vollmer,University,Duke University
+836,Klaus W. Wagner,Company,Regeneron Pharmaceuticals
+837,Thomas Schwentick,Company,Amgen
+838,Andreas Rock,University,Columbia University
+839,Gayane Grigoryan,Company,Hewlett Packard Enterprise
+840,Günther Heinemann,Company,Thermo Fisher Scientific
+841,Oliver Gronz,Company,Bristol-Myers Squibb
+842,Oliver Gutjahr,Company,Apple
+843,Sarah R. Davies,Company,Gilead Sciences
+844,Louise A. Dennis,University,Yale University
+845,Steven R. Smith,University,Brown University
+846,Indira Nair,Company,Cisco Systems
+847,William M. Bulleit,University,Stanford University
+848,Amarjeet Singh 0004,University,Dartmouth College
+849,Neelam Dehal,Company,Google
+850,Jinnie M. Garrett,University,University of Virginia
+851,Brian Bowe,University,Johns Hopkins University
+852,Diana Adela Martin,University,University of Pennsylvania
+853,Eddie Conlon,University,University of Pennsylvania
+854,Petr Houdek,Company,Abbott Laboratories
+855,Enrica Marchigiani,University,Johns Hopkins University
+856,Ileana Di Pomponio,Company,Thermo Fisher Scientific
+857,Margherita Bracci,University,Cornell University
+858,Oronzo Parlangeli,Company,Oracle
+859,Paola Palmitesta,University,Harvard University
+860,Stefano Guidi,Company,Apple
+861,Matthew Grellette,Company,Oracle
+862,Rafi Rashid,Company,Microsoft
+863,Lynne E. Olson,Company,Facebook
+864,Nikolas Stroth,University,"University of Michigan, Ann Arbor"
+865,Wha-Chul Son,Company,Gilead Sciences
+866,Peter Morfeld,Company,Apple
+867,Thomas C. Erren,Company,Amgen
+868,Guido Nicolosi,Company,Amgen
+869,Guido Ruivenkamp,University,University of Pennsylvania
+870,Patrick L. Taylor,University,Stanford University
+871,Ioanna Semendeferi,University,Northwestern University
+872,Ioannis T. Pavlidis,Company,Intel
+873,Malcolm Dcosta,Company,Merck & Co.
+874,Panagiotis Tsiamyrtzis,Company,Johnson & Johnson
+875,Dan Perry,University,"University of California, Los Angeles"
+876,Gad Perry,Company,IBM
+877,Howard J. Curzer,Company,Intel
+878,Mark C. Wallace,Company,Google
+879,Thomas Ploug,Company,Pfizer
+880,Morten P. Oksvold,University,"University of California, Berkeley"
+881,Ana Mlinaric,University,Stanford University
+882,Jelena Omazic,Company,Hewlett Packard Enterprise
+883,Martina Horvat,Company,Regeneron Pharmaceuticals
+884,Vesna Supak-Smolcic,Company,Amgen
+885,Fern Wickson,University,Northwestern University
+886,Adèle Paul-Hus,University,Massachusetts Institute of Technology
+887,Bryn Williams-Jones,University,Brown University
+888,Cassidy R. Sugimoto,Company,Facebook
+889,Elise Smith,Company,Google
+890,Min Shi,Company,Bristol-Myers Squibb
+891,Vincent Larivière,University,Northwestern University
+892,Michael Davis 0002,University,Cornell University
+893,Robert E. McGinn,Company,Intel
+894,Filippo Santoni de Sio,Company,Oracle
+895,Andreea Peca,University,Duke University
+896,Bram Vanderborght,Company,Dell Technologies
+897,Cristina Pop 0002,Company,Microsoft
+898,Daniel O. David,Company,Amazon
+899,Ramona Simut,University,"University of Michigan, Ann Arbor"
+900,Sebastian Pintea,Company,Merck & Co.
+901,Frances S. Grodzinsky,Company,Amgen
+902,Keith W. Miller 0001,University,"University of Michigan, Ann Arbor"
+903,Marty J. Wolf,Company,Thermo Fisher Scientific
+904,Bailey C. Davis,University,University of Chicago
+905,Courtney E. Williams,Company,Bristol-Myers Squibb
+906,George C. Banks,University,Harvard University
+907,Lisa M. Rasmussen,University,Brown University
+908,Mary M. Hausfeld,Company,Oracle
+909,Jessica Li,University,Johns Hopkins University
+910,Shengli Fu,Company,Bristol-Myers Squibb
+911,Ralph J. Greenspan,Company,Regeneron Pharmaceuticals
+912,Arif Sari,Company,Bristol-Myers Squibb
+913,Vojtech Stehel,Company,Oracle
+914,Charles-Étienne Daniel,University,Brown University
+915,Danielle Tapin,Company,Oracle
+916,Georges-Auguste Legault,University,Northwestern University
+917,Jacques Beauvais,Company,Pfizer
+918,Jean-Pierre Béland,Company,Regeneron Pharmaceuticals
+919,Johane Patenaude,University,University of North Carolina at Chapel Hill
+920,Jonathan Genest,University,Duke University
+921,Louise Bernier,University,University of Chicago
+922,Marie-Sol Poirier,Company,Bristol-Myers Squibb
+923,Patrick Boissy,University,Johns Hopkins University
+924,Vanessa Chenel,Company,Google
+925,Abhilash Kizhakenath,Company,Thermo Fisher Scientific
+926,Behnam Taebi,Company,Microsoft
+927,Geerten van de Kaa,Company,Merck & Co.
+928,Ibo van de Poel,University,"University of California, Berkeley"
+929,Jafar Rezaei 0001,University,Stanford University
+930,Angela Fortunato,Company,Amazon
+931,Claire Gloeckner,University,"University of California, Berkeley"
+932,Rosa Lynn Pinkus,University,Columbia University
+933,Joseph R. Herkert,Company,Microsoft
+934,George R. Hoffmann,University,"University of California, Berkeley"
+935,Jameson M. Wetmore,Company,Dell Technologies
+936,Ayanna M. Howard,Company,Microsoft
+937,Noor Munirah Isa,Company,Facebook
+938,Alex A. Karner,Company,Oracle
+939,Camille Nebeker,Company,Hewlett Packard Enterprise
+940,Cinnamon S. Bloss,Company,Intel
+941,John Harlow,University,Duke University
+942,Michelle Takemoto,Company,Abbott Laboratories
+943,Nadir Weibel,University,"University of Michigan, Ann Arbor"
+944,Rasheed Al Kotob,Company,Google
+945,Rubi Linares-Orozco,University,Dartmouth College
+946,Vincent Chan,University,Northwestern University
+947,Alison Kretser,University,Cornell University
+948,Andrea Grantham,Company,Johnson & Johnson
+949,Catherine Woteki,University,Dartmouth College
+950,Chavonda Jacobs-Young,Company,Oracle
+951,David B. Allison,University,Brown University
+952,Delia Murphy,Company,Cisco Systems
+953,Dorothea Vafiadis,Company,Dell Technologies
+954,Jessica M. Wyndham,Company,Facebook
+955,Johanna Dwyer,Company,Facebook
+956,Kathryn J. Boor,University,University of Chicago
+957,Linda J. Harris,Company,Microsoft
+958,Rachelle Hollander,University,California Institute of Technology
+959,Rickey Y. Yada,Company,Johnson & Johnson
+960,Sarah M. Rovito,University,California Institute of Technology
+961,Stefano Bertuzzi,University,University of Pennsylvania
+962,Todd Abraham,Company,Thermo Fisher Scientific
+963,Eric M. Meslin,Company,Thermo Fisher Scientific
+964,Leonidas G. Koniaris,Company,Facebook
+965,Mary I. Coombs,University,Dartmouth College
+966,Teresa A. Zimmers,University,Columbia University
+967,Brent D. Mittelstadt 0002,University,Cornell University
+968,Corinne Cath,University,Harvard University
+969,Sandra Wachter,Company,Amazon
+970,Evan Selinger,Company,IBM
+971,Jathan Sadowski,Company,Merck & Co.
+972,Susan G. Spierre,University,Harvard University
+973,Thomas P. Seager,University,Princeton University
+974,Gary Lee Downey,University,Harvard University
+975,Juan C. Lucena,University,University of Pennsylvania
+976,Hans Peter Graf,University,Johns Hopkins University
+977,Miguel Roig,Company,Thermo Fisher Scientific
+978,Sonia Maria Ramos de Vasconcelos,Company,Dell Technologies
+979,Gary Santillanes,University,Brown University
+980,Ryan Marshall Felder,Company,Dell Technologies
+981,Matthew Benjamin Reisman,University,University of North Carolina at Chapel Hill
+982,Aceil Al-Khatib,University,Massachusetts Institute of Technology
+983,Mathieu Bouville,Company,Apple
+984,Manjur S. Kolhar,Company,Facebook
+985,J. Fdez-Valdivia,Company,Dell Technologies
+986,Jose A. García 0001,Company,Gilead Sciences
+987,Rosa Rodríguez-Sánchez,Company,Bristol-Myers Squibb
+988,Benedicte Wilson,University,Harvard University
+989,Erika Palmer,Company,Merck & Co.
+990,Roel Snieder,Company,Dell Technologies
+991,Somsri Wiwanitkit,University,Yale University
+992,Kristine Bærøe,Company,Facebook
+993,Torbjørn Gundersen,Company,Google
+994,William E. Kastenberg,University,Princeton University
+995,Emily Bell,University,University of North Carolina at Chapel Hill
+996,Mary E. Sunderland,Company,Bristol-Myers Squibb
+997,Rahul Uday Nayak,University,University of North Carolina at Chapel Hill
+998,Angel Peiró-Signes,Company,Abbott Laboratories
+999,María-del-Val Segarra-Oña,Company,Pfizer
+1000,Roberto Cervelló-Royo,Company,Microsoft
+1001,Peter Kroes,Company,Thermo Fisher Scientific
+1002,Andrea Di Cencio,Company,Pfizer
+1003,Lhassan M'Barki,Company,Apple
+1004,Mohamed Abioui,University,Columbia University
+1005,Mohamed Dades,University,Dartmouth College
+1006,Mohammed Benssaou,University,Harvard University
+1007,Frederick Grinnell,Company,Apple
+1008,Barbara E. Ribeiro,Company,Facebook
+1009,Robert D. J. Smith,University,Columbia University
+1010,Daniele Fanelli,Company,Dell Technologies
+1011,Vanja Pupovac,University,California Institute of Technology
+1012,Mladen Petrovecki,Company,Microsoft
+1013,Snjezana Prijic-Samarzija,Company,Pfizer
+1014,Kelly Joslin Holloway,Company,Johnson & Johnson
+1015,James A. Stieb,University,Harvard University
+1016,Jessica Smith Rolston,Company,Amgen
+1017,Ramón Queraltó,University,Duke University
+1018,Steven Puylaert,University,Northwestern University
+1019,Ben A. Minteer,Company,Pfizer
+1020,James P. Collins,Company,Hewlett Packard Enterprise
+1021,Svetlana Zernes,University,University of Chicago
+1022,Susanne Öchsner,Company,Intel
+1023,Ulrike Felt,University,Dartmouth College
+1024,Haldun M. Özaktas,Company,Dell Technologies
+1025,Nora Freya Lindemann,Company,Microsoft
+1026,Balamuralithara Balakrishnan,Company,Gilead Sciences
+1027,Fumihiko Tochinai,Company,Oracle
+1028,Hidekazu Kanemitsu,University,Massachusetts Institute of Technology
+1029,Emily A. Ronning,University,California Institute of Technology
+1030,Melissa S. Anderson,University,University of North Carolina at Chapel Hill
+1031,Raymond De Vries,University,Johns Hopkins University
+1032,Shlomo Mark,University,Cornell University
+1033,Yotam Lurie,University,University of Pennsylvania
+1034,Andrew P. Rebera,Company,Thermo Fisher Scientific
+1035,Silvia Venier,Company,Regeneron Pharmaceuticals
+1036,Bruce V. Lewenstein,University,Harvard University
+1037,Andrew J. Russell,University,Dartmouth College
+1038,Gregory J. Morgan,Company,Merck & Co.
+1039,Jeff Collmann,University,University of North Carolina at Chapel Hill
+1040,Kevin T. FitzGerald,Company,Oracle
+1041,Lee Vinsel,Company,Abbott Laboratories
+1042,Lisa M. Dolling,University,University of North Carolina at Chapel Hill
+1043,Michael Steinmann,Company,Dell Technologies
+1044,Rochelle E. Tractenberg,University,University of Pennsylvania
+1045,Alan H. McGowan,Company,Cisco Systems
+1046,Rafal Wodzisz,University,Harvard University
+1047,James A. E. Macpherson,University,Yale University
+1048,Paul B. Thompson,University,Brown University
+1049,Frederik Voetmann Christiansen,Company,Merck & Co.
+1050,Mikkel Willum Johansen,University,Princeton University
+1051,Alejandra Boni,Company,Regeneron Pharmaceuticals
+1052,Carola Calabuig,University,"University of California, Los Angeles"
+1053,José Javier Sastre,Company,Merck & Co.
+1054,Scott D. Gelfand,Company,Microsoft
+1055,John E. Dahlberg,University,Johns Hopkins University
+1056,Nancy M. Davidian,Company,Facebook
+1057,Daniel Pallarés-Domínguez,University,University of Chicago
+1058,Emilio Delgado López-Cózar,Company,Oracle
+1059,Ramón A. Feenstra,Company,Facebook
+1060,Chao Zuo,Company,Thermo Fisher Scientific
+1061,Haiyan Wang,Company,IBM
+1062,Junwen Zhu,University,Massachusetts Institute of Technology
+1063,Weishu Liu 0001,University,"University of Michigan, Ann Arbor"
+1064,Iñigo de Miguel Beriain,Company,Oracle
+1065,Elena Diller,University,University of Virginia
+1066,Katie Caudle,Company,Dell Technologies
+1067,Marzieh Morovati,University,"University of Michigan, Ann Arbor"
+1068,Mohammadamin Erfanmanesh,Company,Gilead Sciences
+1069,Daniela Glavanicová,Company,Facebook
+1070,Matteo Pascucci,Company,Thermo Fisher Scientific
+1071,Aurelia Tamò-Larrieux,University,"University of California, Berkeley"
+1072,Christoph Lutz,University,"University of California, Los Angeles"
+1073,Gardar Arnason,University,Harvard University
+1074,Janice M. Ballou,Company,Microsoft
+1075,Sandra L. Titus,University,"University of California, Los Angeles"
+1076,Earl D. McCoy,University,Stanford University
+1077,Kristin Berry,Company,Apple
+1078,Brice Laurent,University,Yale University
+1079,Maru Mormina,Company,Pfizer
+1080,Christos Makridis,University,"University of Michigan, Ann Arbor"
+1081,Aamir Raoof Memon,University,"University of California, Los Angeles"
+1082,Martina Mavrinac,University,Stanford University
+1083,Flordeliz Bugarin,University,Northwestern University
+1084,Gada F. Kadoda,Company,Pfizer
+1085,George Middendorf,University,Massachusetts Institute of Technology
+1086,John Tharakan,Company,Johnson & Johnson
+1087,Joseph Fortunak,Company,Dell Technologies
+1088,Arleen Salles,University,Duke University
+1089,Kathinka Evers,University,Princeton University
+1090,Michele Farisco,University,California Institute of Technology
+1091,Brett S. Torrence,University,Harvard University
+1092,E. Michelle Todd,Company,Apple
+1093,Logan L. Watts,Company,Facebook
+1094,Tyler J. Mulhearn,Company,Dell Technologies
+1095,Ehsan Roohi,University,University of North Carolina at Chapel Hill
+1096,Markus Christen,Company,Cisco Systems
+1097,Matthew Hunt,University,University of North Carolina at Chapel Hill
+1098,Ning Wang,Company,Johnson & Johnson
+1099,Justin Donhauser,University,University of Chicago
+1100,Adam Briggle,University,Yale University
+1101,Sigrid Sterckx,University,Harvard University
+1102,Gary Rhoades,Company,Amazon
+1103,Sheila Slaughter,Company,Facebook
+1104,Steven R. Kraaijeveld,University,University of North Carolina at Chapel Hill
+1105,Aaron Pratt Shepherd,Company,Thermo Fisher Scientific
+1106,Alankrita Taneja,University,Yale University
+1107,Jagadish Rao Padubidri,Company,Oracle
+1108,Sharath Burugina Nagaraja,Company,Microsoft
+1109,Anna Julie Rasmussen,Company,Microsoft
+1110,Mette Ebbesen,University,Columbia University
+1111,Julian Kinderlerer,University,Cornell University
+1112,Laurens Landeweerd,Company,Dell Technologies
+1113,Helen Morley,Company,Johnson & Johnson
+1114,Rob Lawlor,University,Harvard University
+1115,John D. Loike,University,"University of California, Berkeley"
+1116,Rachel L. Mintz,Company,Facebook
+1117,Ruth L. Fischbach,University,University of North Carolina at Chapel Hill
+1118,Celia Fernández-Aller,Company,IBM
+1119,Cristina del Barrio,University,Harvard University
+1120,Eloy Portillo,Company,Abbott Laboratories
+1121,Javier Malagón,University,California Institute of Technology
+1122,María Luisa Martín Ruiz,Company,Dell Technologies
+1123,David J. Gunkel,Company,Cisco Systems
+1124,Katarina Valaskova,University,Princeton University
+1125,Lucia Svabova,Company,Intel
+1126,Priya Satalkar,University,University of Pennsylvania
+1127,Flora Colledge,Company,Merck & Co.
+1128,Jakob Passweg,University,University of Pennsylvania
+1129,Jack Stilgoe,University,"University of California, Los Angeles"
+1130,B. Tyr Fothergill,Company,Microsoft
+1131,Bernd Carsten Stahl,University,University of Virginia
+1132,Christine Aicardi,Company,Bristol-Myers Squibb
+1133,Fabrice O. Morin,University,Massachusetts Institute of Technology
+1134,Gudrun Klinker,University,Northwestern University
+1135,Inga Ulnicane,University,Brown University
+1136,Lars Klüver,University,University of Pennsylvania
+1137,Manuel Guerrero,Company,IBM
+1138,Simisola Akintoye,Company,Apple
+1139,William Knight 0001,University,Columbia University
+1140,Yannick Morel,Company,Microsoft
+1141,Andrzej Górski,Company,Pfizer
+1142,Slawomir Letkiewicz,University,University of Virginia
+1143,Christine Killoran,Company,IBM
+1144,Michael G. Anderson,University,"University of California, Los Angeles"
+1145,Tricia Bertram Gallant,Company,Abbott Laboratories
+1146,Marc Lampe,University,Stanford University
+1147,Beuy Joob,University,Duke University
+1148,Huda Fatima,University,Dartmouth College
+1149,Syed Ather Hussain,Company,Amazon
+1150,Syed Bilal Pasha,Company,IBM
+1151,Tooba Fatima Qadir,Company,Oracle
+1152,Armando Segura-Naya,University,Columbia University
+1153,Enrique Hernández-Montes,University,"University of California, Los Angeles"
+1154,Luisa María Gil-Martín,Company,Facebook
+1155,Lambèr M. M. Royakkers,University,Columbia University
+1156,Berna Arda,Company,Amazon
+1157,Amy G. Buhler,Company,IBM
+1158,David Schwieder,Company,Intel
+1159,Denise Beaubien Bennett,University,Columbia University
+1160,Melody Royster,University,"University of California, Los Angeles"
+1161,Michelle Leonard,University,California Institute of Technology
+1162,Christian Reuter 0001,Company,Abbott Laboratories
+1163,Stefka Schmid,University,California Institute of Technology
+1164,Thea Riebe,University,"University of California, Los Angeles"
+1165,Mohd Salim Mohamed,University,University of Virginia
+1166,Nishakanthi Gopalan,University,Northwestern University
+1167,Lucas Regner,Company,Google
+1168,Meg Leta Jones,Company,IBM
+1169,Lise Degn,University,Yale University
+1170,Thomas R. Scott,University,Brown University
+1171,Jake Greenblum,University,"University of Michigan, Ann Arbor"
+1172,Ryan Hubbard,University,"University of Michigan, Ann Arbor"
+1173,Chien Chou,University,University of North Carolina at Chapel Hill
+1174,Yuan-Hsuan Lee 0001,University,Northwestern University
+1175,Michael Lemaster,Company,IBM
+1176,Cynthia Selin,Company,Hewlett Packard Enterprise
+1177,Cong Cao,University,"University of Michigan, Ann Arbor"
+1178,Donald Lien,Company,Cisco Systems
+1179,Li Tang 0005,Company,Microsoft
+1180,Xiaoou Liu,Company,Merck & Co.
+1181,Hui Fang 0006,Company,Amazon
+1182,Jeffrey M. Warrender,University,Cornell University
+1183,Lisa H. Newton,University,California Institute of Technology
+1184,Patricia H. Werhane,University,Massachusetts Institute of Technology
+1185,Andrew Sixsmith,University,"University of California, Berkeley"
+1186,Giovanni Rubeis,Company,Gilead Sciences
+1187,Mei Lang Fang,University,Princeton University
+1188,Tarcisio Abreu Saurin,University,"University of California, Los Angeles"
+1189,Boris Kotchoubey,Company,Cisco Systems
+1190,Ranganatha Sitaram,University,University of North Carolina at Chapel Hill
+1191,Sarah Bütof,University,Columbia University
+1192,Diane S. Gilleland,University,Northwestern University
+1193,Timothy N. Atkinson,Company,Apple
+1194,Darren Schreiber,Company,Dell Technologies
+1195,Aida Causevic,University,University of Chicago
+1196,Alessandro Vittorio Papadopoulos,Company,Intel
+1197,Mirgita Frasheri,Company,Gilead Sciences
+1198,Václav Struhár,University,Duke University
+1199,Mei Lan Fang,University,Brown University
+1200,Carolina Herrera Bañol,University,Dartmouth College
+1201,Daniel Andrés La Rotta Forero,Company,Gilead Sciences
+1202,Juliana Andrea Arias Vergara,Company,Bristol-Myers Squibb
+1203,Juliana Montoya Ardila,University,University of North Carolina at Chapel Hill
+1204,Silvia Teresa Morales-Gualdrón,Company,Gilead Sciences
+1205,Koos van der Bruggen,Company,Apple
+1206,Guangyuan Hu,University,California Institute of Technology
+1207,Yang Sui,Company,Cisco Systems
+1208,Yuhan Yang,University,"University of California, Berkeley"
+1209,Don Gotterbarn,Company,Oracle
+1210,Bhaskaran Unnikrishnan,University,University of North Carolina at Chapel Hill
+1211,Divya Trivedi,University,Massachusetts Institute of Technology
+1212,Mishaal Talish,Company,Gilead Sciences
+1213,Nithin Kumar,University,"University of California, Berkeley"
+1214,Prasanna Mithra,University,Yale University
+1215,Ramesh Holla,Company,Pfizer
+1216,Thapar Rekha,Company,Pfizer
+1217,Vaman Kulkarni,Company,Johnson & Johnson
+1218,Rockwell F. Clancy,Company,Merck & Co.
+1219,Cezary Bolek,University,"University of California, Berkeley"
+1220,Jovan Shopovski,Company,Gilead Sciences
+1221,Monika Bolek,Company,Bristol-Myers Squibb
+1222,Joseph Lee,Company,Intel
+1223,Alex McKeown,University,Dartmouth College
+1224,David M. Lyreskog,University,"University of Michigan, Ann Arbor"
+1225,Donna Riley,Company,Cisco Systems
+1226,Amy Huang,University,Northwestern University
+1227,Clyde Briant,University,"University of California, Berkeley"
+1228,D. Parthasarathy,University,University of Virginia
+1229,Hongqin Zhao,Company,Amazon
+1230,Julianne Hanavan,Company,Thermo Fisher Scientific
+1231,Min Li,Company,Gilead Sciences
+1232,N. C. Narayanan,Company,Cisco Systems
+1233,Paul Firenze,University,Columbia University
+1234,Sheila Bonde,University,Harvard University
+1235,Anton Oleinik,University,Columbia University
+1236,Denise A. Baker,University,"University of California, Berkeley"
+1237,Barry D. Solomon,Company,Apple
+1238,Karma Lekshe Tsomo,University,"University of California, Berkeley"
+1239,Amitabha Gupta,Company,Facebook
+1240,Nihat Kotluk,University,Duke University
+1241,Roland Tormey,University,Columbia University
+1242,Siara Isaac,University,Columbia University
+1243,Bahadur Singh,Company,Johnson & Johnson
+1244,Avan N. Antia,Company,Intel
+1245,Mirjam Sophia Glessmer,University,Northwestern University
+1246,Tom Børsen,University,Johns Hopkins University
+1247,Andrea Malizia,Company,Gilead Sciences
+1248,Angela Cirigliano,University,"University of Michigan, Ann Arbor"
+1249,Carlo Bellecci,University,California Institute of Technology
+1250,Michele Lioj,Company,Hewlett Packard Enterprise
+1251,Orlando Cenciarelli,Company,Pfizer
+1252,Pasquale Gaudio,University,University of Virginia
+1253,Teresa Rinaldi,University,"University of California, Berkeley"
+1254,Lucie White,University,Stanford University
+1255,Philippe van Basshuysen,University,"University of California, Berkeley"
+1256,Leonard Dung,University,University of Chicago
+1257,Hui Wang,University,"University of California, Los Angeles"
+1258,Qin-Rui Xing,Company,Oracle
+1259,Tao Wang,University,University of Pennsylvania
+1260,Wei Chen,University,Brown University
+1261,Beth A. Fischer,Company,Microsoft
+1262,Michael J. Zigmond,University,Northwestern University
+1263,Michael McNamee,Company,Pfizer
+1264,Owen Guy,Company,Johnson & Johnson
+1265,Robert Evans,University,Brown University
+1266,Freida Ozavize Ayodele,University,Yale University
+1267,Hasnah Binti Haron,Company,Regeneron Pharmaceuticals
+1268,Liu Yao,University,Harvard University
+1269,Hendrik F. Machiel Van der Loos,Company,Regeneron Pharmaceuticals
+1270,Steven Umbrello,University,Cornell University
+1271,Daan Schuurbiers,Company,Gilead Sciences
+1272,Ksenia Gerasimova,Company,Pfizer
+1273,Cristian Timmermann,University,"University of California, Berkeley"
+1274,Bo Brinkman,University,University of North Carolina at Chapel Hill
+1275,Julio R. Tuma,University,Duke University
+1276,Edward J. Calabrese,Company,Facebook

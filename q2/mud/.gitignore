@@ -1,0 +1,9 @@
+# Ignore everything except the specified folders
+*
+!.gitignore
+!05-NERC-nn/
+!06-DDI-nn/
+!MUD-DrugDrugInteraction/
+!MUD-LangDetect/
+!deliverable2_GlennieTazon/
+

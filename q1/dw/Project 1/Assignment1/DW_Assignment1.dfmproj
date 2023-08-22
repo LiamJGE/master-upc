@@ -1,0 +1,37 @@
+<project name="DW_Assignment1" id="866f71e0-8b65-47ba-83a3-75b8160a167a" toolversion="3.4.8.0">
+  <datawarehouse>
+    <datamarts>
+      <datamart name="Datamart" id="0a4359b7-2522-4c8e-b180-0fd93e9f69c7">
+        <factschemas>
+          <factschema id="79b9034b-54a1-4907-bfa2-c3a709f68f5b" />
+          <factschema id="8e83eb0e-aeac-4439-a302-52b06faeeab2" />
+          <factschema id="e1df8bcd-314b-4147-945b-e25f2c913f8c" />
+        </factschemas>
+      </datamart>
+    </datamarts>
+  </datawarehouse>
+  <conformedHierarchies>
+    <conformedHierarchy id="2294f584-7360-45fd-b202-050eb1483e80" />
+    <conformedHierarchy id="dc903eb6-f190-426a-b532-d730beb3e509" />
+    <conformedHierarchy id="d3be8991-687b-4998-8a75-7d7b29409ed2" />
+  </conformedHierarchies>
+  <areas />
+  <customProperties>
+    <attributes />
+    <measures />
+    <facts />
+  </customProperties>
+  <linkedProperties />
+  <projectOptions>
+    <logicModelingProfile name="starschema" isEditable="false" />
+    <logicModelingNamePrefixes DimensionTableNamePrefix="DT_" FactTableNamePrefix="FT_" BridgeTableNamePrefix="BT_" NavigationTableNamePrefix="NAV_" JunkTableNamePrefix="JT_" PrimaryKeyNamePrefix="PK_" ForeignKeyNamePrefix="FK_" TableIdNamePrefix="ID_" ConformedDimensionViewNamePrefix="DTV_" TemporalScenarioRollbackFromFieldName="FROM" TemporalScenarioRollbackToFieldName="TO" TemporalScenarioRollbackMasterFieldName="MASTER" />
+    <logicalModelingDefaultTypes>
+      <attributes name="VARCHAR" length="255" scale="-1" precision="-1" />
+      <measures name="DECIMAL" length="-1" scale="3" precision="18" />
+      <surrogates name="INT" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackFromType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackToType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackMasterType name="INT" length="-1" scale="-1" precision="-1" />
+    </logicalModelingDefaultTypes>
+  </projectOptions>
+</project>
